@@ -8,7 +8,7 @@ import Script from 'next/script';
 import Portfolio from '@/components/p-creative/Portfolio';
 
 export const metadata = {
-  title: 'webfolio',
+  title: 'continuos',
   icons: {
     icon: '/assets/imgs/favicon.ico',
     shortcut: '/assets/imgs/favicon.ico',

@@ -41,7 +41,7 @@ function Header() {
           </div>
         </div>
         <div className="container">
-          <h2>Webfolio</h2>
+          <h2>Continuos</h2>
         </div>
       </div>
       <div

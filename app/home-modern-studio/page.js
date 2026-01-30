@@ -19,7 +19,7 @@ import Team from '@/components/home-modern-studio/Team';
 import Testimonials from '@/components/home-modern-studio/Testimonials';
 
 export const metadata = {
-  title: 'webfolio',
+  title: 'continuos',
   icons: {
     icon: '/assets/imgs/favicon.ico',
     shortcut: '/assets/imgs/favicon.ico',

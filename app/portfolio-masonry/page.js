@@ -11,7 +11,7 @@ import Header from '@/components/p-masonry/Header';
 import Portfolio from '@/components/p-masonry/Portfolio';
 
 export const metadata = {
-  title: 'webfolio',
+  title: 'continuos',
   icons: {
     icon: '/assets/imgs/favicon.ico',
     shortcut: '/assets/imgs/favicon.ico',

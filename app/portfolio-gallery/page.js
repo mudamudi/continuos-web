@@ -11,7 +11,7 @@ import Header from '@/components/p-gallery/Header';
 import Portfolio from '@/components/p-gallery/Portfolio';
 
 export const metadata = {
-  title: 'webfolio',
+  title: 'continuos',
   icons: {
     icon: '/assets/imgs/favicon.ico',
     shortcut: '/assets/imgs/favicon.ico',
