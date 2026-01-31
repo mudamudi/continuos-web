@@ -39,7 +39,7 @@ function Header() {
                   <div className="text ml-30">
                     <p>
                       Kami mewujudkan apa yang kamu pikirkan, sesuai
-                      konsep dan tema kamu{' '}
+                      konsep dan tema kamu.{' '}
                       <span className="text-light fw-600">
                         Event A - Z kami siap membantu
                       </span>{' '}
