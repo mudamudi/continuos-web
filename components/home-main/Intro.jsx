@@ -17,7 +17,7 @@ function Intro() {
                   <h3 className="mb-30">
                     We believe in delivering{' '}
                     <span className="fw-300">professional</span>{' '}
-                    <span className="fw-300">cevent solutions.</span>
+                    <span className="fw-300">event solutions.</span>
                   </h3>
                   <p>
                     Kami mendukung penyelenggaraan event korporat dan 

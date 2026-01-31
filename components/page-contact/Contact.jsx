@@ -23,7 +23,7 @@ function Contact() {
               </div>
               <div className="morinfo mt-30 pb-30 bord-thin-bottom">
                 <h6 className="mb-15">Email</h6>
-                <p>akil.ickarya.com</p>
+                <p>akil@ickarya.com</p>
               </div>
 
               <div className="social-icon mt-50">

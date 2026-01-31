@@ -9,7 +9,7 @@ import Script from 'next/script';
 import Header from '@/components/blog-classic/Header';
 import Blogs from '@/components/blog-classic/Blogs';
 export const metadata = {
-  title: 'webfolio',
+  title: 'continuos',
   icons: {
     icon: '/assets/imgs/favicon.ico',
     shortcut: '/assets/imgs/favicon.ico',

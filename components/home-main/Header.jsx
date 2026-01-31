@@ -38,7 +38,7 @@ function Header() {
                 <div>
                   <div className="text ml-30">
                     <p>
-                      kami membatu apa yang anda pikirkan, sesuai
+                      Kami mewujudkan apa yang kamu pikirkan, sesuai
                       konsep dan tema kamu{' '}
                       <span className="text-light fw-600">
                         Event A - Z kami siap membantu

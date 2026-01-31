@@ -13,8 +13,8 @@ import Map from '@/components/page-contact/Map';
 export const metadata = {
   title: 'Continuos',
   icons: {
-    icon: '/assets/imgs/favicon.ico',
-    shortcut: '/assets/imgs/favicon.ico',
+    icon: '/assets/imgs/ffavicon.png',
+    shortcut: '/assets/imgs/favicon.png',
     other: generateStylesheetObject([
       '/assets/css/plugins.css',
       '/assets/css/style.css',
