@@ -56,7 +56,7 @@ function Clients() {
             <SwiperSlide>
               <div className="item">
                 <div className="img icon-img-100">
-                  <img src="/assets/imgs/brands/c1.svg" alt="" />
+                  <img src="/assets/imgs/brands/Logo BCA_Putih.png" alt="" />
                 </div>
               </div>
             </SwiperSlide>
@@ -70,14 +70,14 @@ function Clients() {
             <SwiperSlide>
               <div className="item">
                 <div className="img icon-img-100">
-                  <img src="/assets/imgs/brands/c3.svg" alt="" />
+                  <img src="/assets/imgs/brands/principal-app-install-logo-bpkh.webp" alt="" />
                 </div>
               </div>
             </SwiperSlide>
             <SwiperSlide>
               <div className="item">
                 <div className="img icon-img-100">
-                  <img src="/assets/imgs/brands/c4.svg" alt="" />
+                  <img src="/assets/imgs/brands/ISTIQLAL Logo orn-01.png" alt="" />
                 </div>
               </div>
             </SwiperSlide>

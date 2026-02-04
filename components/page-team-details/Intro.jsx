@@ -52,11 +52,11 @@ function Intro() {
                   </li>
                   <li className="mb-25 fz-18">
                     <span className="sub-title mr-15">Email :</span>{' '}
-                    Aron_Bowers@domain.com
+                    Akil@ickarya.com
                   </li>
                   <li className="fz-18">
-                    <span className="sub-title mr-15">Phone :</span> +44 (0) 20
-                    7430 2973
+                    <span className="sub-title mr-15">Phone :</span> +62 (0) 82
+                    2990 94738
                   </li>
                 </ul>
               </div>

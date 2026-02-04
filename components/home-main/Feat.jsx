@@ -39,14 +39,14 @@ function Feat() {
               <div className="row">
                 <div
                   className="col-md-4 bg-img"
-                  data-background="/assets/imgs/serv-img/1.jpg"
+                  data-background="/assets/imgs/serv-img/5.jpg"
                 ></div>
                 <div className="col-md-8">
                   <div className="info">
-                    <h5 className="mb-15">Web Design</h5>
+                    <h5 className="mb-15">Web & Software developer</h5>
                     <p>
-                      This is the main factor that sets us apart from our
-                      competition and allows us .
+                      Custom website & Apps development focused on performance, reliability, 
+                      and clear information delivery to support organizational and event communication needs.
                     </p>
                   </div>
                 </div>
@@ -56,14 +56,14 @@ function Feat() {
               <div className="row">
                 <div
                   className="col-md-4 bg-img"
-                  data-background="/assets/imgs/serv-img/2.jpg"
+                  data-background="/assets/imgs/serv-img/7.png"
                 ></div>
                 <div className="col-md-8">
                   <div className="info">
-                    <h5 className="mb-15">Branding</h5>
+                    <h5 className="mb-15">Show Management</h5>
                     <p>
-                      This is the main factor that sets us apart from our
-                      competition and allows us .
+                      Comprehensive show management services including stage coordination, 
+                      technical control, and operational supervision for live and hybrid events.
                     </p>
                   </div>
                 </div>
@@ -73,14 +73,14 @@ function Feat() {
               <div className="row">
                 <div
                   className="col-md-4 bg-img"
-                  data-background="/assets/imgs/serv-img/3.jpg"
+                  data-background="/assets/imgs/serv-img/6.png"
                 ></div>
                 <div className="col-md-8">
                   <div className="info">
-                    <h5 className="mb-15">Marketing</h5>
+                    <h5 className="mb-15">Produksi Event</h5>
                     <p>
-                      This is the main factor that sets us apart from our
-                      competition and allows us .
+                      End-to-end event production services covering planning, technical execution, 
+                      and on-site coordination to ensure events run professionally, smoothly, and on schedule..
                     </p>
                   </div>
                 </div>

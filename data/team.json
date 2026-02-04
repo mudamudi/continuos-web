@@ -1,17 +1,22 @@
 [
   {
-    "img": "/assets/imgs/team/1.jpg",
-    "name": "Robert De Niro",
-    "subName": "Web Developer"
+    "img": "/assets/imgs/team/Reo.png",
+    "name": "Reonaldi Saputra, S.Kom",
+    "subName": "Software Developer"
   },
   {
-    "img": "/assets/imgs/team/2.jpg",
-    "name": "Brendan Fraser",
-    "subName": "UI/UX Designer"
+    "img": "/assets/imgs/team/Akil1.png",
+    "name": "Akil Syahrawi, S.Kom",
+    "subName": "Broadcast Engineer"
   },
   {
-    "img": "/assets/imgs/team/3.jpg",
-    "name": "Ahmed Khaled",
-    "subName": "Web Designer"
+    "img": "/assets/imgs/team/kevin.png",
+    "name": "Kelfin, S.T",
+    "subName": "Manager Produksi"
+  },
+   {
+    "img": "/assets/imgs/team/farel.png",
+    "name": "fahrel Iqwa Aziz, S.H",
+    "subName": "Multimedia Designer"
   }
 ]

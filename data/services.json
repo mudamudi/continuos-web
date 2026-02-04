@@ -1,26 +1,26 @@
 [
   {
-    "title": "Digital Product Design",
+    "title": "Produksi Event",
     "img": "/assets/imgs/serv-icons/3.png",
-    "desc": "Live workshop where we define the main problems and challenges before building a strategic plan moving forward.",
+    "desc": "Layanan produksi event secara menyeluruh mulai dari perencanaan, pengelolaan teknis, hingga pelaksanaan di lapangan untuk memastikan acara berjalan profesional, tertib, dan sesuai jadwal.",
     "link": "/page-services-details"
   },
   {
     "title": "Web Developments",
     "img": "/assets/imgs/serv-icons/4.png",
-    "desc": "Live workshop where we define the main problems and challenges before building a strategic plan moving forward.",
+    "desc": "Pengembangan website maupun App Development, yang berfokus pada performa, stabilitas, dan penyampaian informasi yang efektif untuk mendukung kebutuhan instansi maupun kegiatan event.",
     "link": "/page-services-details"
   },
   {
-    "title": "Branding Design",
+    "title": "Show Management",
     "img": "/assets/imgs/serv-icons/5.png",
-    "desc": "Live workshop where we define the main problems and challenges before building a strategic plan moving forward.",
+    "desc": "Layanan manajemen pertunjukan yang mencakup koordinasi panggung, pengendalian teknis, dan pengawasan operasional untuk acara langsung maupun hybrid.",
     "link": "/page-services-details"
   },
   {
-    "title": "UI-UX Design",
+    "title": "Multicam Broadcast",
     "img": "/assets/imgs/serv-icons/5.png",
-    "desc": "Live workshop where we define the main problems and challenges before building a strategic plan moving forward.",
+    "desc": "Layanan siaran multicamera profesional untuk acara daring dan hybrid dengan transmisi stabil, visual yang jelas, serta standar produksi yang berkualitas tinggi.",
     "link": "/page-services-details"
   }
 ]

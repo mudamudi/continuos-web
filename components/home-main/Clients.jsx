@@ -58,14 +58,14 @@ function Clients() {
             <SwiperSlide>
               <div className="item">
                 <div className="img icon-img-100">
-                  <img src="/assets/imgs/brands/c2.svg" alt="" />
+                  <img src="/assets/imgs/brands/Logo BCA_Putih.png" alt="" />
                 </div>
               </div>
             </SwiperSlide>
             <SwiperSlide>
               <div className="item">
                 <div className="img icon-img-100">
-                  <img src="/assets/imgs/brands/c3.svg" alt="" />
+                  <img src="/assets/imgs/brands/ISTIQLAL Logo orn-02.png" alt="" />
                 </div>
               </div>
             </SwiperSlide>
@@ -88,7 +88,7 @@ function Clients() {
         <div className="sec-bottom mt-100">
           <div className="main-bg d-flex align-items-center">
             <h6 className="fz-14 fw-400">
-              More than <span className="fw-600"> 200+ companies</span>
+              More than <span className="fw-600"> 100+ companies</span>
               trusted us worldwide
             </h6>
           </div>

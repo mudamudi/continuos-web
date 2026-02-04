@@ -22,8 +22,8 @@ import Portfolio from '@/components/home-personal/Portfolio';
 export const metadata = {
   title: 'Continuos',
   icons: {
-    icon: '/assets/imgs/logo hitam.png',
-    shortcut: '/assets/imgs/logo hitam.png',
+    icon: '/assets/imgs/favicon.png',
+    shortcut: '/assets/imgs/favicon.png',
     other: generateStylesheetObject([ 
       '/assets/css/plugins.css',
       '/assets/css/style.css',

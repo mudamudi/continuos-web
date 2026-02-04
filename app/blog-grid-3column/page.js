@@ -11,8 +11,8 @@ import Blogs from '@/components/blog-grid-3column/Blogs';
 export const metadata = {
   title: 'continuos',
   icons: {
-    icon: '/assets/imgs/favicon.ico',
-    shortcut: '/assets/imgs/favicon.ico',
+    icon: '/assets/imgs/favicon.png',
+    shortcut: '/assets/imgs/favicon.png',
     other: generateStylesheetObject([
       '/assets/css/plugins.css',
       '/assets/css/style.css',

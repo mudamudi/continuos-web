@@ -10,7 +10,7 @@ function Team() {
               <span className="sub-title main-color mb-5">Our Team</span>
               <h3 className="fw-600 fz-50 text-u d-rotate wow">
                 <span className="rotate-text">
-                  Meet our <span className="fw-200">legends.</span>
+                  Meet our <span className="fw-200">Teams.</span>
                 </span>
               </h3>
             </div>
@@ -24,7 +24,10 @@ function Team() {
         </div>
         <div className="row">
           {data.map((item, i) => (
-            <div key={i} className="col-lg-4">
+              <div
+                key={i}
+                className={`col-lg-4 ${i === 3 ? 'mt-5' : ''}`}
+              >
               <div className="item md-mb50">
                 <div className="img">
                   <img src={item.img} alt="" />

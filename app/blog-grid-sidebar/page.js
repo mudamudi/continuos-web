@@ -11,8 +11,8 @@ import Blogs from '@/components/blog-grid-sidebar/Blogs';
 export const metadata = {
   title: 'continuos',
   icons: {
-    icon: '/assets/imgs/favicon.ico',
-    shortcut: '/assets/imgs/favicon.ico',
+    icon: '/assets/imgs/ffavicon.png',
+    shortcut: '/assets/imgs/favicon.png',
     other: generateStylesheetObject([
       '/assets/css/plugins.css',
       '/assets/css/style.css',

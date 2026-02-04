@@ -18,7 +18,7 @@ function Intro2() {
         <div className="row xlg-marg">
           <div className="col-lg-6">
             <div className="img md-mb50">
-              <img src="/assets/imgs/arw2.png" alt="" />
+              <img src="/assets/imgs/arw3.png" alt="" />
             </div>
           </div>
           <div className="col-lg-6 valign">
@@ -26,45 +26,48 @@ function Intro2() {
               <div className="sec-head mb-50">
                 <h6 className="sub-title main-color mb-15">Why choose us?</h6>
                 <h3>
-                  The creative process behind <br /> our digital marketing.
+                  Transforming Ideas into <br /> Powerful Digital Experiences.
                 </h3>
               </div>
               <div className="accordion bord">
                 <div className="item active wow fadeInUp" data-wow-delay=".1s">
                   <div onClick={openAccordion} className="title">
-                    <h6>Designing Content With AI Power</h6>
+                    <h6>Creative Strategy with Clear Objectives</h6>
                     <span className="ico ti-plus"></span>
                   </div>
                   <div className="accordion-info">
                     <p className="">
-                      Taken possession of my entire soul, like these sweet
-                      mornings of spring which i enjoy with my whole.
+                      Kami memulai setiap proyek dengan pemahaman mendalam terhadap tujuan, audiens, 
+                      dan pesan utama klien. Setiap konsep dirancang strategis agar tidak hanya menarik 
+                      secara visual, tetapi juga tepat sasaran dan berdampak.
                     </p>
                   </div>
                 </div>
 
                 <div className="item wow fadeInUp" data-wow-delay=".3s">
                   <div onClick={openAccordion} className="title">
-                    <h6>Talented, Professional & Expert Team</h6>
+                    <h6>Professional & Multidisciplinary Team</h6>
                     <span className="ico ti-plus"></span>
                   </div>
                   <div className="accordion-info">
                     <p className="">
-                      Taken possession of my entire soul, like these sweet
-                      mornings of spring which i enjoy with my whole.
+                      Didukung oleh tim berpengalaman di bidang event production, web development, 
+                      dan broadcast, kami bekerja secara terintegrasi untuk memastikan setiap detail 
+                      dieksekusi secara profesional dan konsisten.
                     </p>
                   </div>
                 </div>
 
                 <div className="item wow fadeInUp" data-wow-delay=".5s">
                   <div onClick={openAccordion} className="title">
-                    <h6>We Build and Activate Brands</h6>
+                    <h6>End-to-End Execution & Collaboration</h6>
                     <span className="ico ti-plus"></span>
                   </div>
                   <div className="accordion-info">
                     <p className="">
-                      Taken possession of my entire soul, like these sweet
-                      mornings of spring which i enjoy with my whole.
+                      Dari perencanaan hingga pelaksanaan, kami mengelola seluruh proses secara menyeluruh. 
+                      Kami percaya kolaborasi yang solid dengan klien adalah kunci untuk menghasilkan 
+                      karya yang kuat, relevan, dan berkesan.
                     </p>
                   </div>
                 </div>

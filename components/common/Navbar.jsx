@@ -86,6 +86,12 @@ function Navbar() {
                 </div>
               </div>
             </li>
+            <li className="nav-item">
+              <a className="nav-link" href="/page-services">
+                <span className="rolling-text">Our Services</span>
+              </a>
+            </li>
+            {/*
             <li
               onMouseLeave={handleDropdownMouseLeave}
               onMouseMove={handleDropdownMouseMove}
@@ -99,9 +105,10 @@ function Navbar() {
                 aria-haspopup="true"
                 aria-expanded="false"
               >
-                <span className="rolling-text">Visit</span>
+                <span className="rolling-text">Our Services</span>
               </a>
               <ul className="dropdown-menu">
+              {/*
                 <li>
                   <a className="dropdown-item" href="/page-about">
                     About Us
@@ -112,7 +119,7 @@ function Navbar() {
                     Services
                   </a>
                 </li>
-                {/*
+                
                 <li>
                   <a className="dropdown-item" href="/page-services-details">
                     Services Details
@@ -143,9 +150,10 @@ function Navbar() {
                     Error 404
                   </a>
                 </li>
-                */}
+                
               </ul>
             </li>
+            */}
             <li
               onMouseLeave={handleDropdownMouseLeave}
               onMouseMove={handleDropdownMouseMove}
@@ -168,6 +176,7 @@ function Navbar() {
                 <a className="dropdown-item" href="/portfolio-creative">
                   Portfolio Creative
                 </a>
+                {/*
                 <a
                   className="dropdown-item"
                   href="/portfolio-creative-carousel"
@@ -177,6 +186,7 @@ function Navbar() {
                 <a className="dropdown-item" href="/portfolio-grid">
                   Portfolio Grid
                 </a>
+                */}
                 <a className="dropdown-item" href="/portfolio-masonry">
                   Portfolio Masonry
                 </a>

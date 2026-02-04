@@ -7,20 +7,20 @@ function Footer() {
         <div className="row justify-content-between">
           <div className="col-lg-2">
             <div className="logo icon-img-100 md-mb80">
-              <img src="/assets/imgs/logo-light.png" alt="" />
+              <img src="/assets/imgs/CONT-LIGH.png" alt="" />
             </div>
           </div>
           <div className="col-lg-4">
             <div className="column md-mb50">
               <h6 className="sub-title mb-30">Contact</h6>
               <h6 className="p-color fw-400">
-                5919 Trussville Crossings <br /> Pkwy, Birmingham
+                Johar Baru, <br /> Jakarta Pusat
               </h6>
               <h6 className="mt-30 mb-15">
-                <a href="#0">Hello@wcontinuos.com</a>
+                <a href="#0">Hello@continuos.com</a>
               </h6>
               <a href="#0" className="underline">
-                <span className="fz-22 main-color">+2 456 (343) 24 45</span>
+                <span className="fz-22 main-color">+62 8229 9094 738</span>
               </a>
             </div>
           </div>

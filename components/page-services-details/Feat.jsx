@@ -30,7 +30,7 @@ function Feat() {
                 <img src="/assets/imgs/serv-icons/3.png" alt="" />
               </div>
               <span className="mb-30 p-color">01 .</span>
-              <h6 className="mb-20">Digital Product Design</h6>
+              <h6 className="mb-20">Multicam Broadcast</h6>
               <p>
                 Live workshop where we define the main problems and challenge.
               </p>
@@ -54,9 +54,9 @@ function Feat() {
                 <img src="/assets/imgs/serv-icons/5.png" alt="" />
               </div>
               <span className="mb-30 p-color">03 .</span>
-              <h6 className="mb-20">Branding Design</h6>
+              <h6 className="mb-20">Produksi Event</h6>
               <p>
-                Live workshop where we define the main problems and challenge.
+                dari konsep, teknis, hingga eksekusi—kami pastikan acara berjalan rapi, tepat waktu, dan berkesan.
               </p>
             </div>
           </div>
@@ -66,9 +66,9 @@ function Feat() {
                 <img src="/assets/imgs/serv-icons/6.png" alt="" />
               </div>
               <span className="mb-30 p-color">04 .</span>
-              <h6 className="mb-20">UI/UX Web Design</h6>
+              <h6 className="mb-20">Multicam Broadcast</h6>
               <p>
-                Live workshop where we define the main problems and challenge.
+                Kami menghadirkan siaran stabil untuk Zoom, YouTube, dan hybrid event—visual lebih dinamis, audio jernih, tanpa gangguan teknis.
               </p>
             </div>
           </div>

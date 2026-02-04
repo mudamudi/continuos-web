@@ -29,18 +29,18 @@ function About() {
               <h6 className="sub-title main-color mb-30">About Me</h6>
               <div className="text">
                 <h4 className="mb-30">
-                  I&apos;m director of Continuos & Multimedia Jokey{' '}
+                  I&apos;m the Director of Continuos,based in Jakarta,{' '}
                   <span className="fw-200">
                     {""}
                   </span>{' '}
-                  From jakarta, working in web development and visual
-                  Jokey.
+                   Working in Web Developer, & Broadcaster, and Event
+                  Production.
                 </h4>
                 <p>
                   I enjoy turning complex problems into simple, beautiful and
-                  intuitive designs. My aim is to bring across your message and
-                  identity in the most creative way. I created web design for
-                  many famous brand companies.
+                  intuitive designs. Providing integrated web development, b
+                  roadcasting, and event production solutions focused on clarity, 
+                  consistency, and professional results..
                 </p>
 
                 <div className="numbers mt-50">

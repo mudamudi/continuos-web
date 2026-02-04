@@ -2,10 +2,12 @@ import React from 'react';
 
 function Marq() {
   const marquee = [
-    'Web Desgin',
+    'Software Engineering',
     'Web Developement',
-    'Seo eCommerce',
-    'Digital Marckting',
+    'Production Event',
+    'Foto & Video ',
+    'Graphic Design',
+    'Multicam Broadcasting',
     'UI/UX Desgin',
   ];
   return (

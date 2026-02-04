@@ -31,7 +31,7 @@ function Intro() {
 
                   <div className="mt-30">
                     <ul className="rest dot-list">
-                      <li className="mb-10">Product Design</li>
+                      <li className="mb-10">Multicam Broadcast</li>
                       <li className="mb-10">Brand Design</li>
                       <li className="mb-10">Web & Mobile Development</li>
                       <li className="mb-10">Graphic & Print Design</li>
