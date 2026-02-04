@@ -35,9 +35,10 @@ function Header() {
                 Hello! there
               </h6>
               <h1 className="fw-700 mb-10">
-                I&apos;M Akil <span className="main-color">Syahrawi</span>
+                I&apos;m Akil <span className="main-color">Syahrawi</span>
               </h1>
-              <h3>Seorang Freelancer</h3>
+              <h3>Creative Technologist &</h3>
+              <h3>Multimedia Specialist</h3>
               <div className="row">
                 <div className="col-lg-9">
                   <div className="text mt-30">

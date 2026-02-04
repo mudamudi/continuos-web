@@ -63,7 +63,7 @@ function Clients() {
             <SwiperSlide>
               <div className="item">
                 <div className="img icon-img-100">
-                  <img src="/assets/imgs/brands/c2.svg" alt="" />
+                  <img src="/assets/imgs/brands/telkom putih.png" alt="" />
                 </div>
               </div>
             </SwiperSlide>
