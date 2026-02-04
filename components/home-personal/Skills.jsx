@@ -52,11 +52,11 @@ function Skills() {
             <div className="item mb-30">
               <div className="box-bord">
                 <div className="img">
-                  <img src="/assets/imgs/resume/s5.png" alt="" />
+                  <img src="/assets/imgs/resume/Arena.svg" alt="" />
                 </div>
-                <span className="value">84%</span>
+                <span className="value">95%</span>
               </div>
-              <h6 className="fz-18">Sketch</h6>
+              <h6 className="fz-18">Resolume Arena</h6>
             </div>
           </div>
           <div className="col-lg-2 col-md-4 col-6">
@@ -74,11 +74,11 @@ function Skills() {
             <div className="item mb-30">
               <div className="box-bord">
                 <div className="img">
-                  <img src="/assets/imgs/resume/s6.png" alt="" />
+                  <img src="/assets/imgs/resume/vmix.png" alt="" />
                 </div>
-                <span className="value">85%</span>
+                <span className="value">95%</span>
               </div>
-              <h6 className="fz-18">Graphic Design</h6>
+              <h6 className="fz-18">Vmix</h6>
             </div>
           </div>
         </div>
